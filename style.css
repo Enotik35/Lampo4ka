@@ -59,3 +59,16 @@ h2{
 	color: rgb(1, 255, 192);
 	font-size: 200%;
 }
+
+#footer{
+	font-size: 120%;
+	color: rgb(1, 255, 192);
+	border-radius: 10px;
+	text-shadow:  1px 1px 2px black;
+	background-color:rgb(80, 80, 79);
+	margin-top: 30%;
+	height:100px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
