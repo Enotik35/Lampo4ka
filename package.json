@@ -1,12 +1,12 @@
-
 {
-  "name": "sample",
+  "name": "example",
   "version": "1.0.0",
-  "main": "server.js",
+  "description": "",
+  "main": "script.js",
   "scripts": {
-    "start": "npm server.js"
+    "start": "node server.js"
   },
-  "dependencies": {
-    "debug": "^3.1.0"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
